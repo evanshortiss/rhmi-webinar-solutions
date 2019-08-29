@@ -1,14 +1,30 @@
-= Template Walkthrough
+= RHMI Webinar Number 3
 
-// This is a template meant to be used as a starting point for walkthrough development
+Hello, world!
 
-[time=5]
-== Task Title
+[time=10]
+== Introduce RHMI
 
 // Subtasks are not required. 
 // For simple walkthroughs, create your procedure under tasks.
 
 === Subtask Title
+
+. Do first step.
+. Do second step.
+
+[time=15]
+== Demo the Solution Explorer
+
+// Subtasks are not required. 
+// For simple walkthroughs, create your procedure under tasks.
+
+=== Talk about the files
+
+. Do first step.
+. Do second step.
+
+=== Do the real demo
 
 . Do first step.
 . Do second step.
