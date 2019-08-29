@@ -1,6 +1,24 @@
 = RHMI Webinar Number 3
 
-Hello, world!
+Hello, {user-username}! Please login to {api-management-url}.
+
+image::images/architecture.png[architecture]
+
+[type=walkthroughResource,serviceName=openshift]
+.Red Hat OpenShift
+****
+* link:{openshift-host}/console[Console, window="_blank"]
+* link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
+* link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
+****
+
+[type=walkthroughResource,serviceName=3scale]
+.3Scale
+****
+* link:{api-management-url}[Console, window="_blank"]
+* link:https://developers.redhat.com/products/3scale/overview/[3Scale Overview, window="_blank"]
+* link:https://www.3scale.net[3Scale Website, window="_blank"]
+****
 
 [time=10]
 == Introduce RHMI
